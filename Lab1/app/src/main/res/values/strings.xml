@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>sss
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
